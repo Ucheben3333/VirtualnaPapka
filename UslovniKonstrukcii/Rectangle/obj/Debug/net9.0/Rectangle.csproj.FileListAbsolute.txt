@@ -1,0 +1,4 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Rectangle\obj\Debug\net9.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Rectangle\obj\Debug\net9.0\Rectangle.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Rectangle\obj\Debug\net9.0\Rectangle.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Rectangle\obj\Debug\net9.0\Rectangle.csproj.CoreCompileInputs.cache

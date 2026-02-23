@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\3.TestRefactoring\3.TestRefactoring\bin\Debug\3.TestRefactoring.exe.config
+C:\Users\1212-8\Desktop\Alex9а\3.TestRefactoring\3.TestRefactoring\bin\Debug\3.TestRefactoring.exe
+C:\Users\1212-8\Desktop\Alex9а\3.TestRefactoring\3.TestRefactoring\bin\Debug\3.TestRefactoring.pdb
+C:\Users\1212-8\Desktop\Alex9а\3.TestRefactoring\3.TestRefactoring\obj\Debug\3.TestRefactoring.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\3.TestRefactoring\3.TestRefactoring\obj\Debug\3.TestRefactoring.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\3.TestRefactoring\3.TestRefactoring\obj\Debug\3.TestRefactoring.exe
+C:\Users\1212-8\Desktop\Alex9а\3.TestRefactoring\3.TestRefactoring\obj\Debug\3.TestRefactoring.pdb
+C:\Users\1212-8\Desktop\Alex9а\3.TestRefactoring\3.TestRefactoring\obj\Debug\3.TestRefactoring.exe.config

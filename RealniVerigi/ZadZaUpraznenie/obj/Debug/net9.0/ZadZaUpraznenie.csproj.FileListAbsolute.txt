@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\bin\Debug\net9.0\ZadZaUpraznenie.exe
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\bin\Debug\net9.0\ZadZaUpraznenie.deps.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\bin\Debug\net9.0\ZadZaUpraznenie.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\bin\Debug\net9.0\ZadZaUpraznenie.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\bin\Debug\net9.0\ZadZaUpraznenie.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\ZadZaUpraznenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\ZadZaUpraznenie.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\ZadZaUpraznenie.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\ZadZaUpraznenie.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\ZadZaUpraznenie.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\refint\ZadZaUpraznenie.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\ZadZaUpraznenie.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\ZadZaUpraznenie.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\ZadZaUpraznenie\obj\Debug\net9.0\ref\ZadZaUpraznenie.dll

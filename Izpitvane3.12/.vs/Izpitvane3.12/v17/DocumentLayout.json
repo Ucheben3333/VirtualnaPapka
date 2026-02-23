@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{419C18CA-D6F5-4DA5-8F26-6EFF117EB0CE}|PrimeNumbers\\PrimeNumbers.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\izpitvane3.12\\primenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419C18CA-D6F5-4DA5-8F26-6EFF117EB0CE}|PrimeNumbers\\PrimeNumbers.csproj|solutionrelative:primenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C77CA0-63DA-4340-B969-E2CD02879DBD}|10RandomChisla\\10RandomChisla.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\izpitvane3.12\\10randomchisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C77CA0-63DA-4340-B969-E2CD02879DBD}|10RandomChisla\\10RandomChisla.csproj|solutionrelative:10randomchisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819D8B25-D440-4E61-AE5A-5DE8850AFC51}|newproject\\newproject.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\izpitvane3.12\\newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819D8B25-D440-4E61-AE5A-5DE8850AFC51}|newproject\\newproject.csproj|solutionrelative:newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5308942A-C39C-4B43-BC5B-E312877A41E5}|SumNechetniDoN\\SumNechetniDoN.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\izpitvane3.12\\sumnechetnidon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5308942A-C39C-4B43-BC5B-E312877A41E5}|SumNechetniDoN\\SumNechetniDoN.csproj|solutionrelative:sumnechetnidon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CD50B7-C6C6-4A4D-B4A1-AF9BAD1B39D7}|Zadacha2\\Zadacha2.csproj|C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\zadacha2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CD50B7-C6C6-4A4D-B4A1-AF9BAD1B39D7}|Zadacha2\\Zadacha2.csproj|solutionrelative:zadacha2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13FA688-1B90-431E-9A17-B8382758479F}|Izpitvane3.12\\Izpitvane3.12.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\izpitvane3.12\\izpitvane3.12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13FA688-1B90-431E-9A17-B8382758479F}|Izpitvane3.12\\Izpitvane3.12.csproj|solutionrelative:izpitvane3.12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\PrimeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\PrimeNumbers\\Program.cs",
+              "RelativeToolTip": "PrimeNumbers\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:06:28.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\10RandomChisla\\Program.cs",
+              "RelativeDocumentMoniker": "10RandomChisla\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\10RandomChisla\\Program.cs",
+              "RelativeToolTip": "10RandomChisla\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T07:52:11.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\newproject\\Program.cs",
+              "RelativeDocumentMoniker": "newproject\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\newproject\\Program.cs",
+              "RelativeToolTip": "newproject\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T07:30:16.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\SumNechetniDoN\\Program.cs",
+              "RelativeDocumentMoniker": "SumNechetniDoN\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\SumNechetniDoN\\Program.cs",
+              "RelativeToolTip": "SumNechetniDoN\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:41:17.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\Zadacha2\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha2\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\Zadacha2\\Program.cs",
+              "RelativeToolTip": "Zadacha2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:48:01.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\Izpitvane3.12\\Program.cs",
+              "RelativeDocumentMoniker": "Izpitvane3.12\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Izpitvane3.12\\Izpitvane3.12\\Program.cs",
+              "RelativeToolTip": "Izpitvane3.12\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:41:46.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

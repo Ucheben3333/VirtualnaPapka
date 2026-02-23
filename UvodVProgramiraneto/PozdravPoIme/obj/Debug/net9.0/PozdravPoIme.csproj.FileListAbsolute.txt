@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\PozdravPoIme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\PozdravPoIme.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\PozdravPoIme.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\PozdravPoIme.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\bin\Debug\net9.0\PozdravPoIme.exe
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\bin\Debug\net9.0\PozdravPoIme.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\bin\Debug\net9.0\PozdravPoIme.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\bin\Debug\net9.0\PozdravPoIme.dll
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\bin\Debug\net9.0\PozdravPoIme.pdb
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\PozdravPoIme.dll
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\refint\PozdravPoIme.dll
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\PozdravPoIme.pdb
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\PozdravPoIme.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\PozdravPoIme\obj\Debug\net9.0\ref\PozdravPoIme.dll

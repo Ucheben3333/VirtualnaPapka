@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Cikli\TablicaZaUmnozenie\bin\Debug\TablicaZaUmnozenie.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Cikli\TablicaZaUmnozenie\bin\Debug\TablicaZaUmnozenie.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\TablicaZaUmnozenie\bin\Debug\TablicaZaUmnozenie.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\TablicaZaUmnozenie\obj\Debug\TablicaZaUmnozenie.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\TablicaZaUmnozenie\obj\Debug\TablicaZaUmnozenie.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\TablicaZaUmnozenie\obj\Debug\TablicaZaUmnozenie.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\TablicaZaUmnozenie\obj\Debug\TablicaZaUmnozenie.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\TablicaZaUmnozenie\obj\Debug\TablicaZaUmnozenie.exe.config

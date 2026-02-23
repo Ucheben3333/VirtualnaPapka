@@ -1,0 +1,8 @@
+C:\Users\1212-8\source\repos\CConsole9.12\CConsole9.12\bin\Debug\CConsole9.12.exe.config
+C:\Users\1212-8\source\repos\CConsole9.12\CConsole9.12\bin\Debug\CConsole9.12.exe
+C:\Users\1212-8\source\repos\CConsole9.12\CConsole9.12\bin\Debug\CConsole9.12.pdb
+C:\Users\1212-8\source\repos\CConsole9.12\CConsole9.12\obj\Debug\CConsole9.12.csproj.AssemblyReference.cache
+C:\Users\1212-8\source\repos\CConsole9.12\CConsole9.12\obj\Debug\CConsole9.12.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\source\repos\CConsole9.12\CConsole9.12\obj\Debug\CConsole9.12.exe
+C:\Users\1212-8\source\repos\CConsole9.12\CConsole9.12\obj\Debug\CConsole9.12.pdb
+C:\Users\1212-8\source\repos\CConsole9.12\CConsole9.12\obj\Debug\CConsole9.12.exe.config

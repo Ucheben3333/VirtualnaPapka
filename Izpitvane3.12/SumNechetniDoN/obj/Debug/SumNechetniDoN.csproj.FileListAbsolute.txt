@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\SumNechetniDoN\bin\Debug\SumNechetniDoN.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\SumNechetniDoN\bin\Debug\SumNechetniDoN.exe
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\SumNechetniDoN\bin\Debug\SumNechetniDoN.pdb
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\SumNechetniDoN\obj\Debug\SumNechetniDoN.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\SumNechetniDoN\obj\Debug\SumNechetniDoN.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\SumNechetniDoN\obj\Debug\SumNechetniDoN.exe
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\SumNechetniDoN\obj\Debug\SumNechetniDoN.pdb
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\SumNechetniDoN\obj\Debug\SumNechetniDoN.exe.config

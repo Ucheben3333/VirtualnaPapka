@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\bin\Debug\net9.0\LiceNaKrug.exe
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\bin\Debug\net9.0\LiceNaKrug.deps.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\bin\Debug\net9.0\LiceNaKrug.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\bin\Debug\net9.0\LiceNaKrug.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\bin\Debug\net9.0\LiceNaKrug.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\LiceNaKrug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\LiceNaKrug.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\LiceNaKrug.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\LiceNaKrug.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\LiceNaKrug.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\refint\LiceNaKrug.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\LiceNaKrug.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\LiceNaKrug.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\LiceNaKrug\obj\Debug\net9.0\ref\LiceNaKrug.dll

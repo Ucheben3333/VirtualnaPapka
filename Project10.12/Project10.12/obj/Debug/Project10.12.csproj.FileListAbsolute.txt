@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Project10.12\Project10.12\bin\Debug\Project10.12.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Project10.12\Project10.12\bin\Debug\Project10.12.exe
+C:\Users\1212-8\Desktop\Alex9а\Project10.12\Project10.12\bin\Debug\Project10.12.pdb
+C:\Users\1212-8\Desktop\Alex9а\Project10.12\Project10.12\obj\Debug\Project10.12.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Project10.12\Project10.12\obj\Debug\Project10.12.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Project10.12\Project10.12\obj\Debug\Project10.12.exe
+C:\Users\1212-8\Desktop\Alex9а\Project10.12\Project10.12\obj\Debug\Project10.12.pdb
+C:\Users\1212-8\Desktop\Alex9а\Project10.12\Project10.12\obj\Debug\Project10.12.exe.config

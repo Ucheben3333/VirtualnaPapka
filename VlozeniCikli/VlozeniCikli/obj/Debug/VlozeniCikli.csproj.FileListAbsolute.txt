@@ -1,0 +1,7 @@
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\VlozeniCikli\bin\Debug\VlozeniCikli.exe.config
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\VlozeniCikli\bin\Debug\VlozeniCikli.exe
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\VlozeniCikli\bin\Debug\VlozeniCikli.pdb
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\VlozeniCikli\obj\Debug\VlozeniCikli.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\VlozeniCikli\obj\Debug\VlozeniCikli.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\VlozeniCikli\obj\Debug\VlozeniCikli.exe
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\VlozeniCikli\obj\Debug\VlozeniCikli.pdb

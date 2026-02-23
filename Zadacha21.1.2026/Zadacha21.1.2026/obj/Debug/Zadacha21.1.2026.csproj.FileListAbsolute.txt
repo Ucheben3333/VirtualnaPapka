@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Zadacha21.1.2026\Zadacha21.1.2026\bin\Debug\Zadacha21.1.2026.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Zadacha21.1.2026\Zadacha21.1.2026\bin\Debug\Zadacha21.1.2026.exe
+C:\Users\1212-8\Desktop\Alex9а\Zadacha21.1.2026\Zadacha21.1.2026\bin\Debug\Zadacha21.1.2026.pdb
+C:\Users\1212-8\Desktop\Alex9а\Zadacha21.1.2026\Zadacha21.1.2026\obj\Debug\Zadacha21.1.2026.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Zadacha21.1.2026\Zadacha21.1.2026\obj\Debug\Zadacha21.1.2026.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Zadacha21.1.2026\Zadacha21.1.2026\obj\Debug\Zadacha21.1.2026.exe
+C:\Users\1212-8\Desktop\Alex9а\Zadacha21.1.2026\Zadacha21.1.2026\obj\Debug\Zadacha21.1.2026.pdb
+C:\Users\1212-8\Desktop\Alex9а\Zadacha21.1.2026\Zadacha21.1.2026\obj\Debug\Zadacha21.1.2026.exe.config

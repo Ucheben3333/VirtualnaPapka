@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\3Digits\bin\Debug\3Digits.exe.config
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\3Digits\bin\Debug\3Digits.exe
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\3Digits\bin\Debug\3Digits.pdb
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\3Digits\obj\Debug\3Digits.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\3Digits\obj\Debug\3Digits.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\3Digits\obj\Debug\3Digits.exe
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\3Digits\obj\Debug\3Digits.pdb
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\3Digits\obj\Debug\3Digits.exe.config

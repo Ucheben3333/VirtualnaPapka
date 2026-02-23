@@ -1,0 +1,4 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PozdravPoPol\obj\Debug\net9.0\PozdravPoPol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PozdravPoPol\obj\Debug\net9.0\PozdravPoPol.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PozdravPoPol\obj\Debug\net9.0\PozdravPoPol.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PozdravPoPol\obj\Debug\net9.0\PozdravPoPol.csproj.CoreCompileInputs.cache

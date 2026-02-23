@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\bin\Debug\net9.0\RealniVerigi.exe
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\bin\Debug\net9.0\RealniVerigi.deps.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\bin\Debug\net9.0\RealniVerigi.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\bin\Debug\net9.0\RealniVerigi.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\bin\Debug\net9.0\RealniVerigi.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\RealniVerigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\RealniVerigi.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\RealniVerigi.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\RealniVerigi.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\RealniVerigi.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\refint\RealniVerigi.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\RealniVerigi.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\RealniVerigi.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\RealniVerigi\obj\Debug\net9.0\ref\RealniVerigi.dll

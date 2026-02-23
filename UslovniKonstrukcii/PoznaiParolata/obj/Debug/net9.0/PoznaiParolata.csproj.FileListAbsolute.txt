@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\bin\Debug\net9.0\PoznaiParolata.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\bin\Debug\net9.0\PoznaiParolata.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\bin\Debug\net9.0\PoznaiParolata.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\bin\Debug\net9.0\PoznaiParolata.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\bin\Debug\net9.0\PoznaiParolata.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\PoznaiParolata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\PoznaiParolata.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\PoznaiParolata.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\PoznaiParolata.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\PoznaiParolata.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\refint\PoznaiParolata.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\PoznaiParolata.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\PoznaiParolata.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PoznaiParolata\obj\Debug\net9.0\ref\PoznaiParolata.dll

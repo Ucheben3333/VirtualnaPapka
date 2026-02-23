@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ot10tichnaV2ichnaBroinaSistema/1.0.0": {
+        "runtime": {
+          "Ot10tichnaV2ichnaBroinaSistema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ot10tichnaV2ichnaBroinaSistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

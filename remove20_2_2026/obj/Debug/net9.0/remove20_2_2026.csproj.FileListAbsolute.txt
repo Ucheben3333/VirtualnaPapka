@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\bin\Debug\net9.0\remove20_2_2026.exe
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\bin\Debug\net9.0\remove20_2_2026.deps.json
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\bin\Debug\net9.0\remove20_2_2026.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\bin\Debug\net9.0\remove20_2_2026.dll
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\bin\Debug\net9.0\remove20_2_2026.pdb
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\remove20_2_2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\remove20_2_2026.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\remove20_2_2026.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\remove20_2_2026.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\remove20_2_2026.dll
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\refint\remove20_2_2026.dll
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\remove20_2_2026.pdb
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\remove20_2_2026.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\remove20_2_2026\obj\Debug\net9.0\ref\remove20_2_2026.dll

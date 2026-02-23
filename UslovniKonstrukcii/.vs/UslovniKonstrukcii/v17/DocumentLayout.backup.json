@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A12367AF-F6FC-4E76-9FE6-5316FD4CA27F}|Rectangle\\Rectangle.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\uslovnikonstrukcii\\rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12367AF-F6FC-4E76-9FE6-5316FD4CA27F}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF87437-DDFD-49A4-BE1D-74FD328CE4DD}|Mesec\\Mesec.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\uslovnikonstrukcii\\mesec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF87437-DDFD-49A4-BE1D-74FD328CE4DD}|Mesec\\Mesec.csproj|solutionrelative:mesec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF95ABBB-27FC-4274-AA42-21CE20988893}|ChisloInterval\\ChisloInterval.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\uslovnikonstrukcii\\chislointerval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF95ABBB-27FC-4274-AA42-21CE20988893}|ChisloInterval\\ChisloInterval.csproj|solutionrelative:chislointerval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BFCB76-2DA7-4171-A762-0AD45D7D80D9}|KvartalnoMagazinche\\KvartalnoMagazinche.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\uslovnikonstrukcii\\kvartalnomagazinche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BFCB76-2DA7-4171-A762-0AD45D7D80D9}|KvartalnoMagazinche\\KvartalnoMagazinche.csproj|solutionrelative:kvartalnomagazinche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65362DE9-740E-491E-B5ED-8015858A9FEF}|PozdravPoPol\\PozdravPoPol.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\uslovnikonstrukcii\\pozdravpopol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65362DE9-740E-491E-B5ED-8015858A9FEF}|PozdravPoPol\\PozdravPoPol.csproj|solutionrelative:pozdravpopol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BB7E5-2E11-488B-94AD-C2C182EE4BC3}|NamirameDveStrani\\NamirameDveStrani.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\uslovnikonstrukcii\\namiramedvestrani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47BB7E5-2E11-488B-94AD-C2C182EE4BC3}|NamirameDveStrani\\NamirameDveStrani.csproj|solutionrelative:namiramedvestrani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C222CF-CBB6-439D-B9B6-4C5DF0AEEEB7}|DelimNa100\\DelimNa100.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\uslovnikonstrukcii\\delimna100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C222CF-CBB6-439D-B9B6-4C5DF0AEEEB7}|DelimNa100\\DelimNa100.csproj|solutionrelative:delimna100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA27FCD-3F94-4DD5-9737-F9D1FCE31BCF}|ChetnoIliNechetno\\ChetnoIliNechetno.csproj|C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\chetnoilinechetno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA27FCD-3F94-4DD5-9737-F9D1FCE31BCF}|ChetnoIliNechetno\\ChetnoIliNechetno.csproj|solutionrelative:chetnoilinechetno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\Rectangle\\Program.cs",
+              "RelativeDocumentMoniker": "Rectangle\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\Rectangle\\Program.cs",
+              "RelativeToolTip": "Rectangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:58:55.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\Mesec\\Program.cs",
+              "RelativeDocumentMoniker": "Mesec\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\Mesec\\Program.cs",
+              "RelativeToolTip": "Mesec\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:58:52.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\ChisloInterval\\Program.cs",
+              "RelativeDocumentMoniker": "ChisloInterval\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\ChisloInterval\\Program.cs",
+              "RelativeToolTip": "ChisloInterval\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:43:46.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\KvartalnoMagazinche\\Program.cs",
+              "RelativeDocumentMoniker": "KvartalnoMagazinche\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\KvartalnoMagazinche\\Program.cs",
+              "RelativeToolTip": "KvartalnoMagazinche\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:56:12.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\PozdravPoPol\\Program.cs",
+              "RelativeDocumentMoniker": "PozdravPoPol\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\PozdravPoPol\\Program.cs",
+              "RelativeToolTip": "PozdravPoPol\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:36:24.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\NamirameDveStrani\\Program.cs",
+              "RelativeDocumentMoniker": "NamirameDveStrani\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\NamirameDveStrani\\Program.cs",
+              "RelativeToolTip": "NamirameDveStrani\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:37:35.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\ChetnoIliNechetno\\Program.cs",
+              "RelativeDocumentMoniker": "ChetnoIliNechetno\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\ChetnoIliNechetno\\Program.cs",
+              "RelativeToolTip": "ChetnoIliNechetno\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:47:12.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\DelimNa100\\Program.cs",
+              "RelativeDocumentMoniker": "DelimNa100\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\UslovniKonstrukcii\\DelimNa100\\Program.cs",
+              "RelativeToolTip": "DelimNa100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:45:08.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

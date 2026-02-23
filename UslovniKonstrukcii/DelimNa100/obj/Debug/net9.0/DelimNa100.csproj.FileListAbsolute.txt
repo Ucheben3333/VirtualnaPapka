@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\bin\Debug\net9.0\DelimNa100.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\bin\Debug\net9.0\DelimNa100.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\bin\Debug\net9.0\DelimNa100.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\bin\Debug\net9.0\DelimNa100.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\bin\Debug\net9.0\DelimNa100.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\DelimNa100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\DelimNa100.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\DelimNa100.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\DelimNa100.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\DelimNa100.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\refint\DelimNa100.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\DelimNa100.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\DelimNa100.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\DelimNa100\obj\Debug\net9.0\ref\DelimNa100.dll

@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\bin\Debug\net9.0\Expressions.exe
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\bin\Debug\net9.0\Expressions.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\bin\Debug\net9.0\Expressions.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\bin\Debug\net9.0\Expressions.dll
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\bin\Debug\net9.0\Expressions.pdb
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\Expressions.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\Expressions.dll
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\refint\Expressions.dll
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\Expressions.pdb
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\Expressions.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UvodVProgramiraneto\Expressions\obj\Debug\net9.0\ref\Expressions.dll

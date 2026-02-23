@@ -1,0 +1,7 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ExcellentResult\bin\Debug\ExcellentResult.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ExcellentResult\bin\Debug\ExcellentResult.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ExcellentResult\obj\Debug\ExcellentResult.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ExcellentResult\obj\Debug\ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ExcellentResult\obj\Debug\ExcellentResult.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ExcellentResult\obj\Debug\ExcellentResult.pdb

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\bin\Debug\net10.0\Zadacha2.exe
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\bin\Debug\net10.0\Zadacha2.deps.json
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\bin\Debug\net10.0\Zadacha2.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\bin\Debug\net10.0\Zadacha2.dll
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\bin\Debug\net10.0\Zadacha2.pdb
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\Zadacha2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\Zadacha2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\Zadacha2.dll
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\refint\Zadacha2.dll
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\Zadacha2.pdb
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\Zadacha2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Visual Studio\Zadachi\Zadacha2\obj\Debug\net10.0\ref\Zadacha2.dll

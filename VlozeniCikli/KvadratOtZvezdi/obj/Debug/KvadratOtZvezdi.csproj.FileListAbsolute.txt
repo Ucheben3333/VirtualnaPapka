@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\KvadratOtZvezdi\bin\Debug\KvadratOtZvezdi.exe.config
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\KvadratOtZvezdi\bin\Debug\KvadratOtZvezdi.exe
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\KvadratOtZvezdi\bin\Debug\KvadratOtZvezdi.pdb
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\KvadratOtZvezdi\obj\Debug\KvadratOtZvezdi.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\KvadratOtZvezdi\obj\Debug\KvadratOtZvezdi.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\KvadratOtZvezdi\obj\Debug\KvadratOtZvezdi.exe
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\KvadratOtZvezdi\obj\Debug\KvadratOtZvezdi.pdb
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\KvadratOtZvezdi\obj\Debug\KvadratOtZvezdi.exe.config

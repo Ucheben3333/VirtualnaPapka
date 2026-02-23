@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\bin\Debug\net9.0\Veriga1.exe
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\bin\Debug\net9.0\Veriga1.deps.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\bin\Debug\net9.0\Veriga1.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\bin\Debug\net9.0\Veriga1.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\bin\Debug\net9.0\Veriga1.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\Veriga1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\Veriga1.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\Veriga1.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\Veriga1.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\Veriga1.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\refint\Veriga1.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\Veriga1.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\Veriga1.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Veriga1\obj\Debug\net9.0\ref\Veriga1.dll

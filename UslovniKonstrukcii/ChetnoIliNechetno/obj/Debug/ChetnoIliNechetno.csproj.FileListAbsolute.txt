@@ -1,0 +1,7 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChetnoIliNechetno\bin\Debug\ChetnoIliNechetno.exe.config
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChetnoIliNechetno\bin\Debug\ChetnoIliNechetno.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChetnoIliNechetno\bin\Debug\ChetnoIliNechetno.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChetnoIliNechetno\obj\Debug\ChetnoIliNechetno.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChetnoIliNechetno\obj\Debug\ChetnoIliNechetno.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChetnoIliNechetno\obj\Debug\ChetnoIliNechetno.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChetnoIliNechetno\obj\Debug\ChetnoIliNechetno.pdb

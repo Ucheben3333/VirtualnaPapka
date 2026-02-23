@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\bin\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.exe
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\bin\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.deps.json
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\bin\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\bin\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.dll
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\bin\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.pdb
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.dll
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\refint\Ot10tichnaV2ichnaBroinaSistema.dll
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.pdb
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\Ot10tichnaV2ichnaBroinaSistema.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\Zadachi16.12\Ot10tichnaV2ichnaBroinaSistema\obj\Debug\net9.0\ref\Ot10tichnaV2ichnaBroinaSistema.dll

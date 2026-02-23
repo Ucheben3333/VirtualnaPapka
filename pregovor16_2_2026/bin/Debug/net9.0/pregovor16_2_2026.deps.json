@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "pregovor16_2_2026/1.0.0": {
+        "runtime": {
+          "pregovor16_2_2026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pregovor16_2_2026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

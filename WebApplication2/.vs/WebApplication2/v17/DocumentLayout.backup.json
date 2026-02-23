@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\webapplication2\\data\\catcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|solutionrelative:data\\catcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\webapplication2\\data\\catbread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|solutionrelative:data\\catbread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\webapplication2\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\webapplication2\\data\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F565E0-0F1D-421E-8CF3-A67CEABF5975}|WebApplication2.csproj|solutionrelative:data\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T08:05:52.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T08:05:47.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T08:02:27.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:47:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatBread.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Data\\CatBread.cs",
+              "RelativeDocumentMoniker": "Data\\CatBread.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Data\\CatBread.cs",
+              "RelativeToolTip": "Data\\CatBread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:29:04.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Data\\Cat.cs",
+              "RelativeDocumentMoniker": "Data\\Cat.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Data\\Cat.cs",
+              "RelativeToolTip": "Data\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:28:48.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatContext.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Data\\CatContext.cs",
+              "RelativeDocumentMoniker": "Data\\CatContext.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\WebApplication2\\Data\\CatContext.cs",
+              "RelativeToolTip": "Data\\CatContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:11:12.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

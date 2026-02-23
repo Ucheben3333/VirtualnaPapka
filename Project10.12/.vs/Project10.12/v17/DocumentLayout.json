@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Project10.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E8CEA9-EF63-4A4D-A851-3C7E42691E26}|NovProject10.12\\ZadachaSMenu.csproj|c:\\users\\1212-8\\desktop\\alex9\u0430\\project10.12\\novproject10.12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E8CEA9-EF63-4A4D-A851-3C7E42691E26}|NovProject10.12\\ZadachaSMenu.csproj|solutionrelative:novproject10.12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F50B9C-A40F-4502-918B-B472E6D7DC31}|Project10.12\\Project10.12.csproj|C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Project10.12\\project10.12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F50B9C-A40F-4502-918B-B472E6D7DC31}|Project10.12\\Project10.12.csproj|solutionrelative:project10.12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Project10.12\\NovProject10.12\\Program.cs",
+              "RelativeDocumentMoniker": "NovProject10.12\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Project10.12\\NovProject10.12\\Program.cs",
+              "RelativeToolTip": "NovProject10.12\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA3wIMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:28:12.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Project10.12\\Project10.12\\Program.cs",
+              "RelativeDocumentMoniker": "Project10.12\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-8\\Desktop\\Alex9\u0430\\Project10.12\\Project10.12\\Program.cs",
+              "RelativeToolTip": "Project10.12\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:37:37.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

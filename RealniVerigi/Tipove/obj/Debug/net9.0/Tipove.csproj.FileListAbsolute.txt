@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\bin\Debug\net9.0\Tipove.exe
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\bin\Debug\net9.0\Tipove.deps.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\bin\Debug\net9.0\Tipove.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\bin\Debug\net9.0\Tipove.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\bin\Debug\net9.0\Tipove.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\Tipove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\Tipove.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\Tipove.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\Tipove.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\Tipove.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\refint\Tipove.dll
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\Tipove.pdb
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\Tipove.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\RealniVerigi\Tipove\obj\Debug\net9.0\ref\Tipove.dll

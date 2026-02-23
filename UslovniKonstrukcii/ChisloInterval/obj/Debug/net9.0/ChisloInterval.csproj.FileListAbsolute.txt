@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\ChisloInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\ChisloInterval.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\ChisloInterval.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\ChisloInterval.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\bin\Debug\net9.0\ChisloInterval.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\bin\Debug\net9.0\ChisloInterval.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\bin\Debug\net9.0\ChisloInterval.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\bin\Debug\net9.0\ChisloInterval.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\bin\Debug\net9.0\ChisloInterval.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\ChisloInterval.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\refint\ChisloInterval.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\ChisloInterval.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\ChisloInterval.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\ChisloInterval\obj\Debug\net9.0\ref\ChisloInterval.dll

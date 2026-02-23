@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\Sled15min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\Sled15min.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\Sled15min.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\Sled15min.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\bin\Debug\net9.0\Sled15min.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\bin\Debug\net9.0\Sled15min.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\bin\Debug\net9.0\Sled15min.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\bin\Debug\net9.0\Sled15min.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\bin\Debug\net9.0\Sled15min.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\Sled15min.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\refint\Sled15min.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\Sled15min.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\Sled15min.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Sled15min\obj\Debug\net9.0\ref\Sled15min.dll

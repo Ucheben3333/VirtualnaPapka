@@ -1,0 +1,4 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PolozitelnoOtricatelno\obj\Debug\net9.0\PolozitelnoOtricatelno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PolozitelnoOtricatelno\obj\Debug\net9.0\PolozitelnoOtricatelno.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PolozitelnoOtricatelno\obj\Debug\net9.0\PolozitelnoOtricatelno.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\PolozitelnoOtricatelno\obj\Debug\net9.0\PolozitelnoOtricatelno.csproj.CoreCompileInputs.cache

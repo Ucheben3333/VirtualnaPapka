@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\KvartalnoMagazinche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\KvartalnoMagazinche.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\KvartalnoMagazinche.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\KvartalnoMagazinche.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\bin\Debug\net9.0\KvartalnoMagazinche.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\bin\Debug\net9.0\KvartalnoMagazinche.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\bin\Debug\net9.0\KvartalnoMagazinche.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\bin\Debug\net9.0\KvartalnoMagazinche.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\bin\Debug\net9.0\KvartalnoMagazinche.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\KvartalnoMagazinche.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\refint\KvartalnoMagazinche.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\KvartalnoMagazinche.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\KvartalnoMagazinche.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\KvartalnoMagazinche\obj\Debug\net9.0\ref\KvartalnoMagazinche.dll

@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\nov\bin\Debug\net9.0\nov.exe
+C:\Users\1212-8\Desktop\Alex9а\nov\bin\Debug\net9.0\nov.deps.json
+C:\Users\1212-8\Desktop\Alex9а\nov\bin\Debug\net9.0\nov.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\nov\bin\Debug\net9.0\nov.dll
+C:\Users\1212-8\Desktop\Alex9а\nov\bin\Debug\net9.0\nov.pdb
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\nov.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\nov.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\nov.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\nov.dll
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\refint\nov.dll
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\nov.pdb
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\nov.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\nov\obj\Debug\net9.0\ref\nov.dll

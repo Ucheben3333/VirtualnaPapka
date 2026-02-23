@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\Mesec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\Mesec.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\Mesec.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\Mesec.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\bin\Debug\net9.0\Mesec.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\bin\Debug\net9.0\Mesec.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\bin\Debug\net9.0\Mesec.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\bin\Debug\net9.0\Mesec.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\bin\Debug\net9.0\Mesec.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\Mesec.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\refint\Mesec.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\Mesec.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\Mesec.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\Mesec\obj\Debug\net9.0\ref\Mesec.dll

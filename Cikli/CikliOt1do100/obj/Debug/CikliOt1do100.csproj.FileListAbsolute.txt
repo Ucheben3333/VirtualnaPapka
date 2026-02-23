@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Cikli\CikliOt1do100\bin\Debug\CikliOt1do100.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Cikli\CikliOt1do100\bin\Debug\CikliOt1do100.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\CikliOt1do100\bin\Debug\CikliOt1do100.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\CikliOt1do100\obj\Debug\CikliOt1do100.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\CikliOt1do100\obj\Debug\CikliOt1do100.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\CikliOt1do100\obj\Debug\CikliOt1do100.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\CikliOt1do100\obj\Debug\CikliOt1do100.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\CikliOt1do100\obj\Debug\CikliOt1do100.exe.config

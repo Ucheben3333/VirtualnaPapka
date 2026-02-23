@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\ProjectChar\bin\Debug\ProjectChar.exe.config
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\ProjectChar\bin\Debug\ProjectChar.exe
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\ProjectChar\bin\Debug\ProjectChar.pdb
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\ProjectChar\obj\Debug\ProjectChar.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\ProjectChar\obj\Debug\ProjectChar.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\ProjectChar\obj\Debug\ProjectChar.exe
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\ProjectChar\obj\Debug\ProjectChar.pdb
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\ProjectChar\obj\Debug\ProjectChar.exe.config

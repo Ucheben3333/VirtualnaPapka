@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Cikli\IzpechatvaneNaTablicaZaUmnozenie\bin\Debug\IzpechatvaneNaTablicaZaUmnozenie.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Cikli\IzpechatvaneNaTablicaZaUmnozenie\bin\Debug\IzpechatvaneNaTablicaZaUmnozenie.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\IzpechatvaneNaTablicaZaUmnozenie\bin\Debug\IzpechatvaneNaTablicaZaUmnozenie.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\IzpechatvaneNaTablicaZaUmnozenie\obj\Debug\Factoriel.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\IzpechatvaneNaTablicaZaUmnozenie\obj\Debug\Factoriel.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\IzpechatvaneNaTablicaZaUmnozenie\obj\Debug\IzpechatvaneNaTablicaZaUmnozenie.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\IzpechatvaneNaTablicaZaUmnozenie\obj\Debug\IzpechatvaneNaTablicaZaUmnozenie.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\IzpechatvaneNaTablicaZaUmnozenie\obj\Debug\IzpechatvaneNaTablicaZaUmnozenie.exe.config

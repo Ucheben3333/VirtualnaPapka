@@ -1,0 +1,14 @@
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\bin\Debug\net9.0\NamirameDveStrani.exe
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\bin\Debug\net9.0\NamirameDveStrani.deps.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\bin\Debug\net9.0\NamirameDveStrani.runtimeconfig.json
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\bin\Debug\net9.0\NamirameDveStrani.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\bin\Debug\net9.0\NamirameDveStrani.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\NamirameDveStrani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\NamirameDveStrani.AssemblyInfoInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\NamirameDveStrani.AssemblyInfo.cs
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\NamirameDveStrani.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\NamirameDveStrani.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\refint\NamirameDveStrani.dll
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\NamirameDveStrani.pdb
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\NamirameDveStrani.genruntimeconfig.cache
+C:\Users\1212-8\Desktop\Alex9а\UslovniKonstrukcii\NamirameDveStrani\obj\Debug\net9.0\ref\NamirameDveStrani.dll

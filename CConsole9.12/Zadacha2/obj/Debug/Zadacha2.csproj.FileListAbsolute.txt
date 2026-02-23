@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\CConsole9.12\Zadacha2\bin\Debug\Zadacha2.exe.config
+C:\Users\1212-8\Desktop\Alex9а\CConsole9.12\Zadacha2\bin\Debug\Zadacha2.exe
+C:\Users\1212-8\Desktop\Alex9а\CConsole9.12\Zadacha2\bin\Debug\Zadacha2.pdb
+C:\Users\1212-8\Desktop\Alex9а\CConsole9.12\Zadacha2\obj\Debug\Zadacha2.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\CConsole9.12\Zadacha2\obj\Debug\Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\CConsole9.12\Zadacha2\obj\Debug\Zadacha2.exe
+C:\Users\1212-8\Desktop\Alex9а\CConsole9.12\Zadacha2\obj\Debug\Zadacha2.pdb
+C:\Users\1212-8\Desktop\Alex9а\CConsole9.12\Zadacha2\obj\Debug\Zadacha2.exe.config

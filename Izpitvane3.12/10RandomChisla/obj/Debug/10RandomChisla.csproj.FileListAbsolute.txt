@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\10RandomChisla\bin\Debug\10RandomChisla.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\10RandomChisla\bin\Debug\10RandomChisla.exe
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\10RandomChisla\bin\Debug\10RandomChisla.pdb
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\10RandomChisla\obj\Debug\10RandomChisla.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\10RandomChisla\obj\Debug\10RandomChisla.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\10RandomChisla\obj\Debug\10RandomChisla.exe
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\10RandomChisla\obj\Debug\10RandomChisla.pdb
+C:\Users\1212-8\Desktop\Alex9а\Izpitvane3.12\10RandomChisla\obj\Debug\10RandomChisla.exe.config

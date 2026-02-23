@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Cikli\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Cikli\MinMax\bin\Debug\MinMax.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\MinMax\bin\Debug\MinMax.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\MinMax\obj\Debug\MinMax.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\MinMax\obj\Debug\MinMax.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\MinMax\obj\Debug\MinMax.exe.config

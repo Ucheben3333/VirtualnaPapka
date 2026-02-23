@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Filtrirane s for\bin\Debug\Filtrirane s for.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Filtrirane s for\bin\Debug\Filtrirane s for.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Filtrirane s for\bin\Debug\Filtrirane s for.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Filtrirane s for\obj\Debug\FiltriraneSfor.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Filtrirane s for\obj\Debug\FiltriraneSfor.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Filtrirane s for\obj\Debug\Filtrirane s for.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Filtrirane s for\obj\Debug\Filtrirane s for.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Filtrirane s for\obj\Debug\Filtrirane s for.exe.config

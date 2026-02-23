@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Zadacha2/Zadacha2.csproj" />
+  <Project Path="Zadacha3/Zadacha3.csproj" />
+  <Project Path="Zadacha4/Zadacha4.csproj" />
+  <Project Path="Zadacha5/Zadacha5.csproj" />
+  <Project Path="Zadacha6/Zadacha6.csproj" />
+  <Project Path="Zadachi/Zadachi.csproj" />
+</Solution>

@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\ZadachaFor\bin\Debug\ZadachaFor.exe.config
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\ZadachaFor\bin\Debug\ZadachaFor.exe
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\ZadachaFor\bin\Debug\ZadachaFor.pdb
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\ZadachaFor\obj\Debug\ZadachaFor.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\ZadachaFor\obj\Debug\ZadachaFor.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\ZadachaFor\obj\Debug\ZadachaFor.exe
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\ZadachaFor\obj\Debug\ZadachaFor.pdb
+C:\Users\1212-8\Desktop\Alex9а\VlozeniCikli\ZadachaFor\obj\Debug\ZadachaFor.exe.config

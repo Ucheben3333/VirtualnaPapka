@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Cikli\obj\Debug\Cikli.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Cikli\obj\Debug\Cikli.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Cikli\bin\Debug\Cikli.exe.config
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Cikli\bin\Debug\Cikli.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Cikli\bin\Debug\Cikli.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Cikli\obj\Debug\Cikli.exe
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Cikli\obj\Debug\Cikli.pdb
+C:\Users\1212-8\Desktop\Alex9а\Cikli\Cikli\obj\Debug\Cikli.exe.config

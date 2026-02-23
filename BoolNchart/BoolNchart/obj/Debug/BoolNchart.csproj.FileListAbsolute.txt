@@ -1,0 +1,8 @@
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\BoolNchart\bin\Debug\BoolNchart.exe.config
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\BoolNchart\bin\Debug\BoolNchart.exe
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\BoolNchart\bin\Debug\BoolNchart.pdb
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\BoolNchart\obj\Debug\BoolNchart.csproj.AssemblyReference.cache
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\BoolNchart\obj\Debug\BoolNchart.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\BoolNchart\obj\Debug\BoolNchart.exe
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\BoolNchart\obj\Debug\BoolNchart.pdb
+C:\Users\1212-8\Desktop\Alex9а\BoolNchart\BoolNchart\obj\Debug\BoolNchart.exe.config
