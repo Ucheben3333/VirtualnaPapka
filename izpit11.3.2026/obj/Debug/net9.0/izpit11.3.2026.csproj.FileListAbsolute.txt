@@ -1,0 +1,5 @@
+C:\Users\1212-8\Documents\Александър 9а\VirtualnaPapka\izpit11.3.2026\obj\Debug\net9.0\izpit11.3.2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-8\Documents\Александър 9а\VirtualnaPapka\izpit11.3.2026\obj\Debug\net9.0\izpit11.3.2026.AssemblyInfoInputs.cache
+C:\Users\1212-8\Documents\Александър 9а\VirtualnaPapka\izpit11.3.2026\obj\Debug\net9.0\izpit11.3.2026.AssemblyInfo.cs
+C:\Users\1212-8\Documents\Александър 9а\VirtualnaPapka\izpit11.3.2026\obj\Debug\net9.0\izpit11.3.2026.csproj.CoreCompileInputs.cache
+C:\Users\1212-8\Documents\Александър 9а\VirtualnaPapka\izpit11.3.2026\obj\Debug\net9.0\izpit11.3.2026.sourcelink.json
